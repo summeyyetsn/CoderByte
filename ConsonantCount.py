@@ -1,3 +1,13 @@
+"""
+Consonant Count
+Have the function ConsonantCount(str) take the str string parameter passed and return the number of consonants the string contains.
+Example:
+    input : "Hello World"
+    output : 7
+
+    input : "Alphabets"
+    Output : 6
+"""
 # My solution
 def ConsonantCount(strParam):
     # code goes here,
